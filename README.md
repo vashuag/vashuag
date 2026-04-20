@@ -74,9 +74,10 @@ vashu = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vashuag&show_icons=true&theme=default&include_all_commits=true&count_private=true&title_color=1B2A4A&icon_color=1B2A4A&text_color=333&border_color=1B2A4A"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vashuag&layout=compact&langs_count=8&title_color=1B2A4A&text_color=333&border_color=1B2A4A"/>
-
+<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vashuag&show_icons=true&theme=default&include_all_commits=true&count_private=true&title_color=1B2A4A&icon_color=1B2A4A&text_color=333&border_color=1B2A4A"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vashuag&layout=compact&langs_count=8&title_color=1B2A4A&text_color=333&border_color=1B2A4A"/> -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vashuag&show_icons=true&theme=default&include_all_commits=true&count_private=true&cache_seconds=1800"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vashuag&layout=compact&langs_count=8&cache_seconds=1800"/>
 </div>
 
 <div align="center">
